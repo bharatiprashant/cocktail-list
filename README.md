@@ -1,12 +1,12 @@
 # Cocktail List in Angular
 
-This project list all the type of cocktail
+This project list all the type of cocktails
 
 # cocktail list page
-Listing all the type of margareta
+Listing all the type of margarita
 
 # Search cocktail
-We can search any cocktail name
+We can search any cocktail by name
 
 # cocktail details page(click More info link)
 Describing cocktails
